@@ -1,4 +1,4 @@
-import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
+import { platformBrowserDynamic } from 'ec2-3-110-50-200.ap-south-1.compute.amazonaws.com';
 
 import { AppModule } from './app/app.module';
 
